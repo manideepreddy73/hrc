@@ -1,0 +1,33 @@
+.button{
+    display: flex;
+    position: relative;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.set1{
+    display: flex;
+    position: relative;
+    max-height: 25px;
+}
+.set2{
+    margin-left: 1.5cm;
+    display: flex;
+    position: relative;
+    max-height: 25px;
+}
+.button_size{
+    width: 5cm;
+    max-height:37px;
+}
+.button_size1{
+    width: 3cm;
+    max-height:37px;
+}
+input {
+    width:200px;
+    height:30px;
+    font-size: 14px;
+    padding-left: 10px;
+    margin-left: 60px;
+    border-radius: 10px;
+}

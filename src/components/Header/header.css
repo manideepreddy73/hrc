@@ -1,0 +1,21 @@
+.logo1_pos{
+    position:absolute;
+    padding-left: 7vh;
+}
+.logo1_pos img{
+   width: 250px;
+    height: 45px;
+}
+img {
+    filter:brightness();
+    -webkit-filter: brightness(100%) saturate(200%);
+    }
+.logo2_pos{
+    display: flex;
+    position: relative;
+    padding-left: 43%;
+    padding-top: 3vh;
+}
+.logo2_pos img{
+    height: 50px;
+}
